@@ -20,9 +20,33 @@
     </tr>
     <tr>
       <td></td>
-      <td><img src="API_010200z.png" width="400"></td>
+      <td><img src="API_010200z.png" width="450"></td>
     <tr>
-      <td><img src="API_102100z.png" width="400"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/108226849-7f037500-70fa-11eb-9f1b-d8bd81c3164c.png" width="400"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/108226850-7f037500-70fa-11eb-8e74-8e79bcb3146d.png" width="400"></td>
+    <tr>
+      <td></td>
+      <td><img src="API_010300z.png" width="450"></td>
+    <tr>
+    <tr>
+      <td></td>
+      <td><img src="API_010400z.png" width="450"></td>
+    <tr>
+    <tr>
+      <td></td>
+      <td><img src="API_010500z.png" width="450"></td>
+    <tr>
+    <tr>
+      <td></td>
+      <td><img src="API_010600z.png" width="450"></td>
+    <tr>
+    <tr>
+      <td></td>
+      <td><img src="API_010700z.png" width="450"></td>
+    <tr>
+    <tr>
+      <td></td>
+      <td><img src="API_010800z.png" width="450"></td>
+    <tr>
+      <td><img src="API_102100z.png" width="450"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108226849-7f037500-70fa-11eb-9f1b-d8bd81c3164c.png" width="450"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/108226850-7f037500-70fa-11eb-8e74-8e79bcb3146d.png" width="450"></td>
     </tr>
