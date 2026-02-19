@@ -10,3 +10,4 @@ Values of API do not change over the course of six hours, or even from day to da
 
 The RTMA dataset is primarily derived from preipitation estimates of radar networks deployed across the United States. Biases in the estimated precipitation values are corrected by precipitation values reported by local rain gage networks. Since areal coverage of the national weather radar network is more complete over the eastern United States, reliable coverage of API across that region is more complete. Over the western United States, areas of low API may or may not be due to a lack of precipitation.  
 
+API_102100z.png
