@@ -221,49 +221,49 @@
       <td><img src="/API_WrnUS2025/API_WrnUS_101600z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_101600z.png" width="450"></td>
     <tr>
-      <td></td>
+      <td><img src="/API_WrnUS2021/API_WrnUS_102600z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_WrnUS_102600z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_102600z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_102600z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_102600z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_102600z.png" width="450"></td>
     <tr>
-      <td></td>
+      <td><img src="/API_WrnUS2021/API_WrnUS_110600z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_WrnUS_110600z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_110600z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_110600z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_110600z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_110600z.png" width="450"></td>
     <tr>
-      <td></td>
+      <td><img src="/API_WrnUS2021/API_WrnUS_111600z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_WrnUS_111512z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_111600z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_111600z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_111600z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_111600z.png" width="450"></td>
     <tr>
-      <td></td>
+      <td><img src="/API_WrnUS2021/API_WrnUS_112600z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_WrnUS_112606z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_112600z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_112600z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_112600z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_112600z.png" width="450"></td>
     <tr>
-      <td></td>
+      <td><img src="/API_WrnUS2021/API_WrnUS_120600z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_WrnUS_120600z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_120600z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_120600z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_120600z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_120600z.png" width="450"></td>
     <tr>
-      <td></td>
+      <td><img src="/API_WrnUS2021/API_WrnUS_121600z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_WrnUS_121600z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_121600z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_121600z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_121600z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_121600z.png" width="450"></td>
     <tr>
-      <td></td>
+      <td><img src="/API_WrnUS2021/API_WrnUS_122600z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_WrnUS_122600z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_122600z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_122600z.png" width="450"></td>
