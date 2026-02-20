@@ -274,6 +274,27 @@
 <hr>
 <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td><img src="/API_WrnUS2022/API_WrnUS_122600z.png" width="450"></td>
-      <td><img src="/API_WrnUS2023/API_WrnUS_122600z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_WrnUS_072500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_ErnUS_072500z.png" width="450"></td>
+    <tr>
+      <td><img src="/API_WrnUS2022/API_WrnUS_072600z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_ErnUS_072600z.png" width="450"></td>
+    <tr>
+      <td><img src="/API_WrnUS2022/API_WrnUS_072700z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_ErnUS_072700z.png" width="450"></td>
+    <tr>
+      <td><img src="/API_WrnUS2022/API_WrnUS_072800z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_ErnUS_072800z.png" width="450"></td>
+    <tr>
+      <td><img src="/API_WrnUS2022/API_WrnUS_072900z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_ErnUS_072900z.png" width="450"></td>
+    <tr>
+      <td><img src="/API_WrnUS2022/API_WrnUS_073000z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_ErnUS_073000z.png" width="450"></td>
+    <tr>
+      <td><img src="/API_WrnUS2022/API_WrnUS_073100z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_ErnUS_073100z.png" width="450"></td>
+    <tr>
+      <td><img src="/API_WrnUS2022/API_WrnUS_080100z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_ErnUS_080100z.png" width="450"></td>
     </tr>
