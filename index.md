@@ -301,7 +301,8 @@
     <tr>
 </table>
   <hr>
-  <h2>Heavy rain with a landfalling hurricane over central Florida</h2>
+  <h2>Heavy rain with landfalling of major hurricane Ian over central Florida</h2>
+  <h3>Antecedant Precipitation spiked to more than 325 mm, about 13 inches!</h3>
 <table> 
   <tr>
       <td><img src="/API_WrnUS2022/API_WrnUS_092800z.png" width="450"></td>
