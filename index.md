@@ -17,7 +17,6 @@
       <th>2024</th>
       <th>2025</th>
       <th>2026</th>
-    </tr>
     <tr>
       <td></td>
       <td><img src="/API_WrnUS2022/API_010500z.png" width="450"></td>
@@ -25,7 +24,6 @@
       <td><img src="/API_WrnUS2024/API_WrnUS_010500z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_010500z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_010500z.png" width="450"></td>
-    </tr>
     <tr>
       <td></td>
       <td><img src="/API_WrnUS2022/API_011500z.png" width="450"></td>
@@ -33,7 +31,6 @@
       <td><img src="/API_WrnUS2024/API_WrnUS_011500z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_011500z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_011500z.png" width="450"></td>
-    </tr>
     <tr>
       <td></td>
       <td><img src="/API_WrnUS2022/API_012500z.png" width="450"></td>
@@ -41,7 +38,6 @@
       <td><img src="/API_WrnUS2024/API_WrnUS_012500z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_012500z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_012500z.png" width="450"></td>
-    </tr>
     <tr>
       <td></td>
       <td><img src="/API_WrnUS2022/API_020500z.png" width="450"></td>
@@ -49,30 +45,33 @@
       <td><img src="/API_WrnUS2024/API_WrnUS_020500z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_020500z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_020500z.png" width="450"></td>
-    </tr>
     <tr>
       <td></td>
       <td><img src="/API_WrnUS2022/API_021500z.png" width="450"></td>
       <td><img src="images/API_WrnUS_010600z.png" width="450"></td>
       <td><img src="images2024/API_WrnUS_010600z.png" width="450"></td>
     <tr>
-    <tr>
       <td></td>
       <td><img src="API_WrnUS2022/API_022500z.png" width="450"></td>
       <td><img src="images/API_WrnUS_010700z.png" width="450"></td>
       <td><img src="images2024/API_WrnUS_010700z.png" width="450"></td>
-    <tr>
     <tr>
       <td></td>
       <td><img src="API_010800z.png" width="450"></td>
       <td><img src="images/API_WrnUS_010800z.png" width="450"></td>
       <td><img src="images2024/API_WrnUS_010800z.png" width="450"></td>
     <tr>
-      <td><img src="API_102100z.png" width="450"></td>
+      <td><img src="API_WrnUS2021/API_102600z.png" width="450"></td>
     <tr>
-      <td><img src="API_102200z.png" width="450"></td>
+      <td><img src="API_WrnUS2021/API_110600z.png" width="450"></td>
     <tr>
-      <td><img src="API_102300z.png" width="450"></td>
+      <td><img src="API_WrnUS2021/API_111600z.png" width="450"></td>
     <tr>
-      <td><img src="API_102400z.png" width="450"></td>
+      <td><img src="API_WrnUS2021/API_112600z.png" width="450"></td>
+    <tr>
+      <td><img src="API_WrnUS2021/API_120600z.png" width="450"></td>
+    <tr>
+      <td><img src="API_WrnUS2021/API_121600z.png" width="450"></td>
+    <tr>
+      <td><img src="API_WrnUS2021/API_122600z.png" width="450"></td>
     </tr>
