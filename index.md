@@ -9,7 +9,7 @@
 
 
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <th>2021</th>
       <th>2022</th>
@@ -24,29 +24,32 @@
       <td><img src="/API_WrnUS2023/API_WrnUS_010500z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_010500z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_010500z.png" width="450"></td>
-      <td><img src="API_010700z.png" width="450"></td>
-    <tr>
+      <td><img src="/API_WrnUS2026/API_WrnUS_010500z.png" width="450"></td>
+    </tr>
     <tr>
       <td></td>
       <td><img src="/API_WrnUS2022/API_011500z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_011500z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_011500z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_011500z.png" width="450"></td>
-    <tr>
+      <td><img src="/API_WrnUS2026/API_WrnUS_011500z.png" width="450"></td>
+    </tr>
     <tr>
       <td></td>
       <td><img src="/API_WrnUS2022/API_012500z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_012500z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_012500z.png" width="450"></td>
       <td><img src="/API_WrnUS2025/API_WrnUS_012500z.png" width="450"></td>
-      <td><img src="images2024/API_WrnUS_010400z.png" width="450"></td>
-    <tr>
+      <td><img src="/API_WrnUS2026/API_WrnUS_012500z.png" width="450"></td>
+    </tr>
     <tr>
       <td></td>
-      <td><img src="API_010500z.png" width="450"></td>
-      <td><img src="images/API_WrnUS_010500z.png" width="450"></td>
-      <td><img src="images2024/API_WrnUS_010500z.png" width="450"></td>
-    <tr>
+      <td><img src="/API_WrnUS2022/API_020500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2023/API_WrnUS_020500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2024/API_WrnUS_020500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2025/API_WrnUS_020500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2026/API_WrnUS_020500z.png" width="450"></td>
+    </tr>
     <tr>
       <td></td>
       <td><img src="API_010600z.png" width="450"></td>
