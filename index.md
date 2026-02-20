@@ -9,7 +9,7 @@
 
 
 
-<table border="1" cellpadding="1" cellspacing="1">
+<table border="1" cellpadding="0" cellspacing="0">
     <tr>
       <th>2021</th>
       <th>2022</th>
@@ -29,9 +29,9 @@
     <tr>
       <td></td>
       <td><img src="/API_WrnUS2022/API_011500z.png" width="450"></td>
-      <td><img src="/API_WrnUS2023/API_WrnUs_011500z.png" width="450"></td>
-      <td><img src="/API_WrnUS2024/API_WrnUs_011500z.png" width="450"></td>
-      <td><img src="/API_WrnUS2025/API_WrnUs_011500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2023/API_WrnUS_011500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2024/API_WrnUS_011500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2025/API_WrnUS_011500z.png" width="450"></td>
     <tr>
     <tr>
       <td></td>
