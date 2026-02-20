@@ -8,26 +8,26 @@
   <hr>
 <table border="0" cellpadding="0" cellspacing="0"> 
   <tr>
-      <td><img src="/API_WrnUS2025/API_WrnUS_021000z.png" width="450"></td>
-      <td><img src="/API_WrnUS2026/API_ErnUS_021000z.png" width="450"></td>
+      <td><img src="/API_WrnUS2026/API_WrnUS_021000z.png" width="400"></td>
+      <td><img src="/API_WrnUS2026/API_ErnUS_021000z.png" width="400"></td>
   <tr>
-      <td><img src="/API_WrnUS2025/API_WrnUS_021100z.png" width="450"></td>
-      <td><img src="/API_WrnUS2026/API_ErnUS_021100z.png" width="450"></td>
+      <td><img src="/API_WrnUS2026/API_WrnUS_021100z.png" width="400"></td>
+      <td><img src="/API_WrnUS2026/API_ErnUS_021100z.png" width="400"></td>
   <tr>
-      <td><img src="/API_WrnUS2025/API_WrnUS_021200z.png" width="450"></td>
-      <td><img src="/API_WrnUS2026/API_ErnUS_021200z.png" width="450"></td>
+      <td><img src="/API_WrnUS2026/API_WrnUS_021200z.png" width="400"></td>
+      <td><img src="/API_WrnUS2026/API_ErnUS_021200z.png" width="400"></td>
   <tr>
-      <td><img src="/API_WrnUS2025/API_WrnUS_021300z.png" width="450"></td>
-      <td><img src="/API_WrnUS2026/API_ErnUS_021300z.png" width="450"></td>
+      <td><img src="/API_WrnUS2026/API_WrnUS_021300z.png" width="400"></td>
+      <td><img src="/API_WrnUS2026/API_ErnUS_021300z.png" width="400"></td>
   <tr>
-      <td><img src="/API_WrnUS2025/API_WrnUS_021400z.png" width="450"></td>
-      <td><img src="/API_WrnUS2026/API_ErnUS_021400z.png" width="450"></td>
+      <td><img src="/API_WrnUS2026/API_WrnUS_021400z.png" width="400"></td>
+      <td><img src="/API_WrnUS2026/API_ErnUS_021400z.png" width="400"></td>
   <tr>
-      <td><img src="/API_WrnUS2025/API_WrnUS_021500z.png" width="450"></td>
-      <td><img src="/API_WrnUS2026/API_ErnUS_021500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2026/API_WrnUS_021500z.png" width="400"></td>
+      <td><img src="/API_WrnUS2026/API_ErnUS_021500z.png" width="400"></td>
   <tr>
-      <td><img src="/API_WrnUS2025/API_WrnUS_021600z.png" width="450"></td>
-      <td><img src="/API_WrnUS2026/API_ErnUS_021600z.png" width="450"></td>
+      <td><img src="/API_WrnUS2026/API_WrnUS_021600z.png" width="400"></td>
+      <td><img src="/API_WrnUS2026/API_ErnUS_021600z.png" width="400"></td>
   </tr>
 </table>
 <h2>Antecedant Precipitation Index across the western United States, 2021-2026</h2>
