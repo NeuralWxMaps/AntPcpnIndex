@@ -270,3 +270,10 @@
       <td><img src="/API_WrnUS2025/API_WrnUS_122600z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_122600z.png" width="450"></td>
     </tr>
+</table>
+<hr>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img src="/API_WrnUS2022/API_WrnUS_122600z.png" width="450"></td>
+      <td><img src="/API_WrnUS2023/API_WrnUS_122600z.png" width="450"></td>
+    </tr>
