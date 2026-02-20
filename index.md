@@ -272,6 +272,7 @@
     </tr>
 </table>
 <hr>
+<h2>Temporal evolution of a heavy rain episode over western and central Tennessee</h2>
 <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td><img src="/API_WrnUS2022/API_WrnUS_072500z.png" width="450"></td>
@@ -298,8 +299,11 @@
       <td><img src="/API_WrnUS2022/API_WrnUS_080100z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_ErnUS_080100z.png" width="450"></td>
     <tr>
+</table>
   <hr>
-    <tr>
+  <h2>Heavy rain with a landfalling hurricane over central Florida</h2>
+<table> 
+  <tr>
       <td><img src="/API_WrnUS2022/API_WrnUS_092800z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_ErnUS_092800z.png" width="450"></td>
     <tr>
@@ -315,3 +319,4 @@
       <td><img src="/API_WrnUS2022/API_WrnUS_100200z.png" width="450"></td>
       <td><img src="/API_WrnUS2022/API_ErnUS_100200z.png" width="450"></td>
     </tr>
+</table>
