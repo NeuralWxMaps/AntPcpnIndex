@@ -20,8 +20,8 @@
     </tr>
     <tr>
       <td></td>
-      <td><img src="API_010200z.png" width="450"></td>
-      <td><img src="API_010300z.png" width="450"></td>
+      <td><img src="API_010500z.png" width="450"></td>
+      <td><img src="/API_WrnUS2022/API_011500z.png" width="450"></td>
       <td><img src="API_010400z.png" width="450"></td>
       <td><img src="API_010500z.png" width="450"></td>
       <td><img src="API_010600z.png" width="450"></td>
