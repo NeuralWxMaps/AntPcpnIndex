@@ -1,5 +1,5 @@
 # AntPcpnIndex
-Documenting values of Antecedent Precipitation Index across the western and eastern United States.
+Documenting values of Antecedent Precipitation Index across the United States since late 2021.
 
 Using data collected from the Real Time Mesoscale Analysis(RTMA) dataset, hourly precipitation is summed up into six-hour periods. These 6-hour precipitation fields are added together iteratively, aftter multiplying the sum by around 0.95 before adding the next timestep. This corresponds to about a 24 hour reduction rate around 80 percent. This procedure, called Antecedent precipitation Index(API), has been in use by hydrologists for decades, as a proxy for how much moisture might be present in soils.  In this manner, moisture that falls on one day will gradually toward zero over about 14 days. 
 
@@ -7,9 +7,9 @@ Values in these images are in millimeters, so 25.4 mm equals 1 inch.  The color 
 
 Since evaporation varies over the course of the year, I modified the reduction rate, from 0.98 during the months of December and January down to 0.93 in June and July.
 
-Precipitation for this study, has been collected across the western United States since mid-October 2021. Collection of precipitation across the eastern United States occurred for a few months in late 2021 and early 2022, then resumed in late March 2025. 
+Precipitation for this study, has been collected across the western United States since mid-October 2021. Collection of precipitation across the eastern United States occurred for a heavy rain event in July 2022 and for the landfall of major Hurricane Ian in late September 2022.  Additional eastern United States rainfall has now been collected since late March 2025. 
 
-Values of API do not change over the course of six hours, or even from day to day, unless a significant amount of precipitation has recently fallen. Therefore, I only display the API every tenth day, specifically on the 5th, 15th and 25th of each month. API data is being retained at the daily scale, and the liquid precipitation is being retained at 6-hour time resolution, to assit is conducting case studies. 
+Values of API do not change over the course of six hours, or even from day to day, unless a significant amount of precipitation has recently fallen. Therefore, I only display the API every tenth day, specifically on the 5th, 15th and 25th of each month. API image files are being retained at the daily tiem scale, and the liquid precipitation data is being retained at 6-hour time resolution, to assist in conducting case studies. 
 
 Plotting the data year after year will begin revealing climatological signals. Regions of possible flooding become evident as the value of API increases. Regions experiencing dry conditions or localized drought become evident as values of API approach zero. Over the past several summers, across the western United States, large and destructive wildfires have tended to occur in areas with the API at or near zero. 
 
