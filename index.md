@@ -141,7 +141,7 @@
       <td><img src="/API_WrnUS2022/API_WrnUS_062600z.png" width="450"></td>
       <td><img src="/API_WrnUS2023/API_WrnUS_062600z.png" width="450"></td>
       <td><img src="/API_WrnUS2024/API_WrnUS_062600z.png" width="450"></td>
-      <td><img src="/API_WrnUS2025/API_WrnUS_062600z.png" width="450"></td>
+      <td><img src="/API_WrnUS2025/API_WrnUS_062518z.png" width="450"></td>
       <td><img src="/API_WrnUS2026/API_WrnUS_062600z.png" width="450"></td>
     <tr>
       <td></td>
