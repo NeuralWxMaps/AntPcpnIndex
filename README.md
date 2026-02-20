@@ -15,4 +15,4 @@ Plotting the data year after year will begin revealing climatological signals. R
 
 The RTMA dataset is primarily derived from preipitation estimates of radar networks deployed across the United States. Biases in the estimated precipitation values are corrected by precipitation values reported by local rain gage networks. Since areal coverage of the national weather radar network is more complete over the eastern United States, reliable coverage of API across that region is more complete. Over the western United States, areas of low API may or may not be due to a lack of precipitation.  
 
-<img src="API_102100z.png">
+<img src="/API_WrnUS2021/API_102600z.png">
