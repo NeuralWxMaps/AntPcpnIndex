@@ -272,7 +272,7 @@
     </tr>
 </table>
 <hr>
-<h2>Temporal evolution of a heavy rain episode over western and central Tennessee</h2>
+<h2><center>Temporal evolution of a heavy rain episode over western and central Tennessee</h2>
 <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td><img src="/API_WrnUS2022/API_WrnUS_072500z.png" width="450"></td>
@@ -301,8 +301,8 @@
     <tr>
 </table>
   <hr>
-  <h2>Heavy rain with landfalling of major hurricane Ian over central Florida</h2>
-  <h3>Antecedant Precipitation spiked to more than 325 mm, about 13 inches!</h3>
+  <h2><center>Heavy rain with landfall of major hurricane Ian over central Florida</h2>
+  <h3><center>Antecedant Precipitation Index spiked to more than 325 mm, about 13 inches!</h3>
 <table> 
   <tr>
       <td><img src="/API_WrnUS2022/API_WrnUS_092800z.png" width="450"></td>
