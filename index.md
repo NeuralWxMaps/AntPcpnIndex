@@ -4,11 +4,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-    <center>Antecedent Precipitation Index
+    <center>Most Recent Antecedent Precipitation Index
   <hr>
-
-
-
+<table border="0" cellpadding="0" cellspacing="0"> 
+  <tr>
+      <td><img src="/API_WrnUS2025/API_WrnUS_021600z.png" width="450"></td>
+      <td><img src="/API_WrnUS2026/API_ErnUS_021600z.png" width="450"></td>
+  </tr>
+</table>
+<h2>Antecedant Precipitation Index across the western United States, 2021-2026</h2>
+<hr>
 <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <th>2021</th>
