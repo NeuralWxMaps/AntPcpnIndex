@@ -8,6 +8,9 @@
   <hr>
 <table border="0" cellpadding="0" cellspacing="0"> 
   <tr>
+      <td><img src="/API_WrnUS2026/API_WrnUS_022000z.png" width="400"></td>
+      <td><img src="/API_WrnUS2026/API_ErnUS_022000z.png" width="400"></td>
+  <tr>
       <td><img src="/API_WrnUS2026/API_WrnUS_021900z.png" width="400"></td>
       <td><img src="/API_WrnUS2026/API_ErnUS_021900z.png" width="400"></td>
   <tr>
@@ -22,9 +25,6 @@
   <tr>
       <td><img src="/API_WrnUS2026/API_WrnUS_021500z.png" width="400"></td>
       <td><img src="/API_WrnUS2026/API_ErnUS_021500z.png" width="400"></td>
-  <tr>
-      <td><img src="/API_WrnUS2026/API_WrnUS_021400z.png" width="400"></td>
-      <td><img src="/API_WrnUS2026/API_ErnUS_021400z.png" width="400"></td>
   </tr>
 </table>
 <h2>Antecedent Precipitation Index across the western United States, 2021-2026</h2>
